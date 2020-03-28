@@ -1,4 +1,4 @@
 # be-the-hero
 Projeto criado com base na Semana Omnistack 11
 
-Utilizado node.js e react.
+Back-end em node.js e front-end em React.
