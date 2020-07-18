@@ -26,12 +26,12 @@ Essa aplicação utiliza ferramentas e práticas atualizadas na criação de apl
 1. Clonar o repositório utilizando o comando git clone https://github.com/RosaAmanda/Be-The-Hero.git
 2. Navegar para a pasta Be-The-Hero
 
-## Iniciando o Front-End
+## Iniciando o Back-End
 1. Navegar para a pasta backend: cd backend
 2. Executar npm install para instalar as dependências
 3. Executar npm start para iniciar a aplicação backend
 
-## Iniciando o Back-End
+## Iniciando o Front-End
 1. Navegar para a pasta frontend: cd frontend
 2. Executar yarn para instalar as dependências
 3. Executar yarn start para iniciar a aplicação frontend
